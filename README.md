@@ -5,5 +5,4 @@
 
 😀 Atualmente estou estudando ferramentos do front end.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edusantanaw)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edusantanaw&show_icons=true&theme=radical)

@@ -6,7 +6,7 @@
 
 ![teste](https://github-readme-stats.vercel.app/api/top-langs/?username=edusantanaw&show_icons=true&theme=radical)
 
-## Tecnologias que eu ultilizo:
+## Tecnologias que eu utilizo:
 
 [![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()

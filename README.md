@@ -1,9 +1,5 @@
 # Sejá Bem vindo! Eu sou o Eduardo Santana
 
-    
-
-## Minhas redes:
-
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edusantanaw/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-santana-7a4926245/)
 

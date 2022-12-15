@@ -1,7 +1,9 @@
-# Sejá Bem vindo! Eu sou o Eduardo Santana
+# Sejá Bem vindo! 
+Eu sou o Eduardo Santana
 
 ## Sobre mim
 Eu sou um desenvolvedor Fullstack.
+
 Gosto de criar coisas e estar sempre aprimorando as minhas habilidades.
 
 ## Tecnologias que eu utilizo:

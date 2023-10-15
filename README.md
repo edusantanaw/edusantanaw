@@ -1,6 +1,5 @@
 # Sejá Bem vindo! 
-Eu sou o Edu, sou um desenvolvedor Fullstack com foco no backend.
-Gosto de criar coisas e estar sempre aprimorando as minhas habilidades.
+Olá, sou Eduardo Santana, um desenvolvedor full-stack na Abmax Educacional. Tenho paixão por criar coisas e estou constantemente aprimorando minhas habilidades. Além disso, tenho um profundo interesse por arquitetura de software, que é uma área que me permite projetar sistemas complexos e escaláveis, garantindo que eles atendam às necessidades de alto nível dos usuários e das empresas.
 
 ## Projetos
 

@@ -31,7 +31,7 @@ Gosto de criar coisas e estar sempre aprimorando as minhas habilidades.
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
-![edusantanaw GitHub stats](https://github-readme-stats.vercel.app/api?username=edusantanaw&show_icons=true)
+[![edusantanaw GitHub stats](https://github-readme-stats.vercel.app/api?username=edusantanaw&show_icons=true)]
 
 ### Tambem tenho estudado sobre
 [![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()

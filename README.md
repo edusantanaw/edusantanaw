@@ -1,24 +1,5 @@
 # Sejá Bem vindo! 
 Olá, sou Eduardo Santana, um desenvolvedor full-stack. Tenho paixão por criar coisas e estou constantemente aprimorando minhas habilidades. Além disso, tenho um profundo interesse por arquitetura de software, que é uma área que me permite projetar sistemas complexos e escaláveis, garantindo que eles atendam às necessidades de alto nível dos usuários e das empresas.
-
-## Projetos
-
-### Rede social para projetos colaborativos
- * Sobre: Uma rede social para trabalhos colaborativos, consiste em uma plataforma online que permite que o usuário possa encontrar projetos para contribuir, se conectar com outras pessoas que tem o mesmo propósito, consiga compartilhar as suas ideias, comunicar-se com outros usuários e gerenciar os seus projetos.
- * Repositorio: https://github.com/edusantanaw/Rede-social-Colaborativa
- * Tecnlogias: NodeJs, Postgresql, Express, Prisma, Zod, Typescript, Socket.io, ReactJs, Material UI, Styled-components, Typescript, Formik eYup
-
-### Monitorador de Api
- * Sobre: Consiste em um sistema de monitoramento do atual status de api externa, criada com o objetivo de monitorar status de serviços de terceiros.
- * Repositorio: https://github.com/edusantanaw/monitorador_api_nest
- * Tecnlogias: NodeJs, Typescript, node-cron, NestJs, Prisma e Postgresql
-
-### Portfolio
- * Sobre: Portfolio criado para compartilhar alguns projetos pessoas.
- * Repositorio: https://github.com/edusantanaw/meu-portfolio
- * Link: https://eduardosantana.netlify.app/
- * Tecnlogias: React, Typescript e Styled-components
-
 ## Tecnologias
 ### Backend
 [![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
